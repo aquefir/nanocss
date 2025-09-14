@@ -37,6 +37,7 @@ pastel tincture that is 15-bit RGB555 compatible, along with their
 canonically, are as follows:
 
 | black  |  red   | green  | yellow |  blue  |  pink  |  cyan  | white |
+|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
 | `#000` | `#F00` | `#0F0` | `#FF0` | `#00F` | `#F0F` | `#0FF` | `#FFF`|
 
 Additionally, nanoCSS provides two &lsquo;extra&rsquo; colours &ndash;
