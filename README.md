@@ -22,7 +22,7 @@ palette of IBM-PC compatible terminal consoles.
 nanoCSS was forked from the v2.1.1 point release of its parent project.
 Since it is a hard fork, its inaugural version is v1.0.0.
 
-For now, follow the [Pico CSS][2] documentation to get started with
+For now, follow the [Pico CSS documentation][2] to get started with
 nanoCSS.
 
 -----
