@@ -31,5 +31,18 @@ A lot of the webdev-style infrastructure has been gutted due to lack of
 necessity. As sure as you probably want to use plain CSS in your project
 we also wish to employ the same philosophy.
 
+nanoCSS provides the standard 8 colours of the console in a pleasing,
+pastel tincture that is 15-bit RGB555 compatible, along with their
+&lsquo;bright&rsquo; or &lsquo;bold&rsquo; variants. The eight colours,
+canonically, are as follows:
+
+| black  |  red   | green  | yellow |  blue  |  pink  |  cyan  | white |
+| `#000` | `#F00` | `#0F0` | `#FF0` | `#00F` | `#F0F` | `#0FF` | `#FFF`
+
+Additionally, nanoCSS provides two &lsquo;extra&rsquo; colours &ndash;
+steel and brown &ndash; which should fall back to cyan and red,
+respectively, in the event one cannot or does not wish to render extra
+colours.
+
 [1]: https://github.com/picocss/pico
 [2]: https://picocss.com/docs
