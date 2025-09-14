@@ -41,7 +41,7 @@ canonically, are as follows:
 | `#000` | `#F00` | `#0F0` | `#FF0` | `#00F` | `#F0F` | `#0FF` | `#FFF`|
 
 Additionally, nanoCSS provides two &lsquo;extra&rsquo; colours &ndash;
-steel and brown &ndash; which should fall back to cyan and red,
+steel and brown &ndash; which should fall back to blue and red,
 respectively, in the event one cannot or does not wish to render extra
 colours.
 
